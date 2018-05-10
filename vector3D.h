@@ -1,5 +1,5 @@
-#ifndef VECTORD3D_1_VECTOR3D_CLASS_H_
-#define VECTORD3D_1_VECTOR3D_CLASS_H_
+#ifndef VECTORD3D_1_VECTOR3D_H_
+#define VECTORD3D_1_VECTOR3D_H_
 
 #include <iostream>
 #include <cstring>
